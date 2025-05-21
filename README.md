@@ -12,4 +12,4 @@ A simple Java tool that automatically sorts your files by file type.
 
 ## 💸 Support:
 If this tool was helpful to you, I’d really appreciate a small donation 🙏  
-👉 [Donate via PayPal](https://www.paypal.com/donate/?hosted_button_id=XXXXXXXXXXX)
+👉 [Donate via PayPal](https://www.paypal.com/donate/?hosted_button_id=GKJ6VVH4DQMKS)
